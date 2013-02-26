@@ -1,0 +1,21 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "One page jade file introducing viewers to Node!",
+  "contributors": [
+    {
+      "name": "Vincenzo Vitiello",
+      "email": "cenzo.vit@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.x",
+    "coffee-script": "*",
+    "jade": "*",
+    "stylus": "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  }
+}
